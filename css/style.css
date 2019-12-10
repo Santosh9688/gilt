@@ -1,0 +1,247 @@
+.logo {
+    color: white;
+    padding: 10px;
+}
+.row {
+    background-color: black
+}
+.data {
+    border: 6px solid black;
+}
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .input-field {
+    width: 350px;
+    padding: 10px;
+    outline: none;
+  }
+
+.search p {
+    padding-top: 15px;
+    padding-left: 20px;
+    margin-top: -40px;
+    color:black;
+}
+.fa-search  {
+    color: orange;
+    margin-left: -37px;
+    padding-top: 20px;
+}
+.col-lg-1 {
+    padding-left: 30px;
+}
+.info {
+    display: inline-block;
+    color: white;
+   
+}
+.info .currency {
+    vertical-align: middle;
+    padding-top: 20px;
+}
+ .account {
+    padding-left: 100px;
+    margin-top: -25px;
+    color: white;
+}
+.cart {
+    padding-left: 220px;
+    margin-top: -25px;
+    color: white;
+}
+.encrypt {
+    border-bottom: 1px solid white;
+}
+ul {
+    margin-bottom: 0;
+}
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+ul li {
+    padding: 20px;
+    margin: 0;  
+}
+ul li a {
+    color: white;
+    position: relative;
+}
+.align{
+    font-weight: 500;
+}
+.gn{
+    text-align: center;
+}
+ul li a:hover{
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover::after{
+    visibility: visible;
+    opacity: 1;
+}
+li a::after{
+    position: absolute;
+    width: 100%;
+    bottom: -22px;
+    left: 0;
+    content: '';
+    background: #E09D00;
+    height: 5px;
+    visibility: hidden;
+    opacity: 0;
+
+}
+.bottom-right {
+    position: absolute;
+    bottom: -10px;
+    right: 28px;
+  }
+  .er{
+      font-weight: 500;
+      color: white;
+  }
+  
+  .space{
+      padding-right: 0;
+      padding-left: 3px;
+  }
+  .do img{
+      width: 100%;
+      height:100%;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      padding-bottom: 3px;
+  }
+  .boom:hover img{
+      transform: scale(1.03);
+      transition-duration: 50000.75s;
+      padding: 8px 18px 0px;
+  }
+  div.col-lg-12.day{
+      background-color: white;
+  }
+  div.col-lg-4.space{
+    background-color: white;
+  }
+  .erm{
+      font-weight: 800;
+      color: white;
+  }
+  div.col-lg-12{
+      background-color: white;
+  }
+  .set{
+      padding: 15px 0px;
+  }
+  .color .row{
+      background-color: white;
+  }
+  .down{
+      padding-bottom: 10px !important;
+  }
+    
+  .footer-area h3 {
+    color: white;
+}
+.footer-area ul {
+    padding: 0 !important;
+}
+.footer-area h3 {
+    font-size: 15px;
+    padding: 20px 0 10px;
+}
+
+.footer-area ul li {
+    display: block;
+    font-size: 12px;
+    padding: 5px 0;
+}
+.footer-area ul li a:hover {
+    text-decoration: none !important;
+    color: #E09D00 !important;
+}
+.footer-area .col-lg-3 {
+    max-width: 12%;
+}
+.footer-area i {
+    padding: 5px 0;
+    color: white;
+}
+.footer-area span {
+    padding: 5px 0;
+    color: white;
+}
+.footer-logo img {
+    width: 160px;
+    margin-left: 550px;
+    padding-bottom: 15px !important;
+}
+#copyright{
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 444px;
+    color: #D8D8D8;
+}
+.one img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.one .row{
+    background: white;
+}
+div.col-lg-4.space{
+    padding: 0px 5px;
+}
+div.col-lg-12.set{
+    padding: 5px 5px;
+}
+div.col-lg-12.day{
+    padding-left: 19px;
+    padding-right: 19px;
+}
+div.col-lg-8.ryan{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+div.col-lg-4.jack{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+img.d-block.w-100{
+    padding: 0px 0px 8px;
+}
+div.col-lg-4.spaces{
+    background: white;
+    padding: 0px 5px;
+}
+div.container.downs{
+    padding: 0px 15px 10px;
+}
+.bottom-rights {
+    position: absolute;
+    bottom: -10px;
+    right: 28px;
+  }
+  p.erms{
+      font-weight: 800;
+      color: white;
+  }
+
+
+
