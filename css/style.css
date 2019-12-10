@@ -272,5 +272,16 @@ div.container.downs{
     margin-left: 5px;
     margin-right: 10px;
 } 
-
+.weight{
+    font-weight: 400;
+}
+#left{
+    text-align: left;
+}
+#top{
+    margin-top: -80px;
+}
+.spaceship{
+    margin-left: -10px;
+}
 
