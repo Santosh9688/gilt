@@ -2,7 +2,7 @@
     color: white;
     padding: 10px;
 }
-.row {
+.wreck{
     background-color: black
 }
 .data {
@@ -63,6 +63,7 @@
 }
 .encrypt {
     border-bottom: 1px solid white;
+    background: #000;
 }
 ul {
     margin-bottom: 0;
@@ -96,7 +97,7 @@ ul li a:hover::after{
 li a::after{
     position: absolute;
     width: 100%;
-    bottom: -22px;
+    bottom: -5px;
     left: 0;
     content: '';
     background: #E09D00;
@@ -243,5 +244,33 @@ div.container.downs{
       color: white;
   }
 
+  .tracks h1{
+    font-family: Cabin, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: normal;
+    cursor: pointer;
+  }
+  .fa-chevron-down:before {
+    color: rgb(224, 157, 0);
+    font-size: 15px;
+}
+ .sort{
+    width: 170px;
+    height: 30px;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    background: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+}
+.offers{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+} 
 
 
