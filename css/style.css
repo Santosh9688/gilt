@@ -280,8 +280,76 @@ div.container.downs{
 }
 #top{
     margin-top: -80px;
+    margin-bottom: -8px;
 }
 .spaceship{
     margin-left: -10px;
 }
+.blocks{
+    background-color: #000;
+    padding: 1px;
+    border: 1px solid black;
+}
+.bold{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 1px !important; 
+}
+.text{
+    font-weight: 500;
+}
+.strike{
+    text-decoration: line-through;
+}
+.cement{
+    color: #666666;
+}
+#topper{
+    margin-bottom: -8px;
+}
+#toppers{
+    margin-bottom: -8px;
+    padding-top: 8px;
 
+}
+div.col-lg-4.spaceships{
+    padding-left: 0px;
+}
+#jump{
+    padding-left: 0px;
+    padding-top: 8px;
+}
+.white{
+    position: absolute;
+    bottom: -5px;
+    right: 28px;
+}
+.ac{
+    background-color: rgba(23, 23, 23, 0.85);
+    padding: 1px;
+    margin-bottom: 58px;
+    margin-right: 47px;
+    padding: 40px; 
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+}
+#pen{
+    margin-bottom: -8px;
+}
+div.col-lg-4.avatar{
+    padding-left: 0px !important;
+    padding-top: 10px;
+}
+div.col-lg-4.beast{
+    padding-left: 0px;
+    padding-top: 10px;
+}
+#pencil{
+    margin-bottom: -8px;
+}
+.texas{
+    padding-bottom: 10px !important;
+    font-weight: 500;
+}
